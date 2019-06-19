@@ -1,0 +1,14 @@
+.Hello {
+
+  &__title {
+    text-align: center;
+    color: #2a2b2f;
+    font-size: 48px;
+
+    em {
+      font-style: normal;
+      color: $orange;
+    }
+  }
+
+}
